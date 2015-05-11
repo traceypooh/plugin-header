@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: plugin-header
-Plugin URI: http://poohBot.com
+Plugin URI: https://github.com/traceypooh/plugin-header
 Description: Marvelous stuff
 Version: 2015
 Author: Tracey Pooh
